@@ -1,0 +1,15 @@
+.p-buyuk{
+    text-transform:uppercase;
+}
+.center{
+    text-align:center
+}
+.renk{
+    color:blueviolet;
+}
+.ul-ort {
+    list-style-position: inside;
+  }
+.renk2{
+    color:crimson;
+}
